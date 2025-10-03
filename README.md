@@ -13,9 +13,9 @@ State Key Laboratory of Tree Genetics and Breeding, Nanjing Forestry University,
 
 <div align="center">
 
-[![Release Version](https://img.shields.io/github/v/release/Hanfuchuan/PKDP-GS?color=blue)](https://github.com/Hanfuchuan/PKDP-GS/releases)
-[![License](https://img.shields.io/github/license/Hanfuchuan/PKDP-GS?color=green)](https://github.com/Hanfuchuan/PKDP-GS/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/Hanfuchuan/PKDP-GS?color=orange)](https://github.com/Hanfuchuan/PKDP-GS/commits/main)
+[![Release Version](https://img.shields.io/github/v/release/aiPGAB/PKDP-GS?color=blue)](https://github.com/aiPGAB/PKDP-GS/releases)
+[![License](https://img.shields.io/github/license/aiPGAB/PKDP-GS?color=green)](https://github.com/aiPGAB/PKDP-GS/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/aiPGAB/PKDP-GS?color=orange)](https://github.com/aiPGAB/PKDP-GS/commits/main)
 
 </div>
 
@@ -35,7 +35,7 @@ conda create -n PKDP_env python=3.8
 conda activate PKDP_env
 
 # Install PKDP
-git clone https://github.com/Hanfuchuan/PKDP-GS.git
+git clone https://github.com/aiPGAB/PKDP-GS.git
 cd ./PKDP-GS
 chmod +x ./PKDP.py
 
